@@ -1,8 +1,7 @@
 <!-- Banner superior con imagen en azul marino eléctrico oscuro -->
 <div align="center">
-  <img src="assets/banner-github.png" width="100%" alt="Samuel Díaz - Banner" />
+  <img src="banner-github.jfif" width="100%" alt="Samuel Díaz - Banner" />
 </div>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/samueldaviddiazaponte/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
