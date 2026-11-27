@@ -68,5 +68,11 @@ Soy **Samuel Díaz**, instructor de **Python e Inteligencia Artificial** en **FU
 | **[Matemática-IV-Portafolio.SD](https://github.com/sadhub10/Matemática-IV-Portafolio.SD)** | Portafolio académico cuantitativo, Cadenas de Markov y modelado | `Python` `Jupyter` `Matemática` |
 | **[Proyectos-Pa09-y-Pa10-HACKATON](https://github.com/sadhub10/Proyectos-Pa09-y-Pa10-HACKATON)** | Soluciones aplicadas de Machine Learning desarrolladas en Hackathon | `Python` `Scikit-Learn` `Data` |
 | **[SIC-2025-Aulas-Pa09-y-Pa10](https://github.com/sadhub10/SIC-2025-Aulas-Pa09-y-Pa10)** | Currículo completo de programación, estructuras de datos e IA (2025) | `Python` `Jupyter` `Pandas` |
-  
-  <a href="
+
+---
+
+<div align="center">
+  Gracias por visitar mi perfil 🚀<br/>
+  <b>Samuel Díaz</b> · Python, IA y Análisis Cuantitativo<br/>
+  <a href="mailto:fundest.sdiaz@gmail.com">fundest.sdiaz@gmail.com</a> · <a href="https://www.linkedin.com/in/samueldaviddiazaponte/">LinkedIn</a>
+</div>
