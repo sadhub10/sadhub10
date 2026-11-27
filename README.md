@@ -50,12 +50,12 @@ Soy **Samuel Díaz**, instructor de **Python e Inteligencia Artificial** en **FU
 ### 📊 Estadísticas en GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sadhub10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" alt="Estadísticas de GitHub"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadhub10&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sadhub10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=es&bg_color=021226&title_color=38bdf8&icon_color=0ea5e9&text_color=e2e8f0&ring_color=38bdf8" alt="Estadísticas de GitHub"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadhub10&layout=compact&langs_count=6&hide_border=true&locale=es&bg_color=021226&title_color=38bdf8&text_color=e2e8f0" alt="Lenguajes más usados"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadhub10&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadhub10&hide_border=true&locale=es&background=021226&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=e2e8f0&currStreakNum=ffffff&sideLabels=cbd5e1&dates=94a3b8" alt="Racha de contribuciones" />
 </div>
 
 ---
