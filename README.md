@@ -14,9 +14,9 @@
 
 <br/>
 
-### "Hi"
+### 👋 Hello, i´m Samuel Díaz
 
-Soy **Samuel Díaz**, instructor de **Python e Inteligencia Artificial** en **FUNDESTEAM** (Samsung Innovation Campus) y estudiante de **Economía (UCV)** y **Administración (UNESR)**. Combino el análisis cuantitativo y la gestión estratégica con el desarrollo de software, estructuras de datos, *Machine Learning* y *Deep Learning* para resolver problemas reales con rigor técnico y claridad.
+  Instructor de **Python e Inteligencia Artificial** en **FUNDESTEAM** (Samsung Innovation Campus) y estudiante de **Economía (UCV)** y **Administración (UNESR)**. Combino el análisis cuantitativo y la gestión estratégica con el desarrollo de software, estructuras de datos, *Machine Learning* y *Deep Learning* para resolver problemas reales con rigor técnico y claridad.
 
 * 🧠 **Docencia & IA:** Diseño y guío sesiones prácticas de Python, algoritmos, análisis de datos e IA para distintas cohortes del Samsung Innovation Campus, acompañando proyectos y hackathons.
 * 📐 **Enfoque Cuantitativo:** Aplico modelado matemático, estadística y pensamiento económico a proyectos y portafolios académicos en GitHub.
