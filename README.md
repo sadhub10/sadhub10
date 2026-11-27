@@ -15,13 +15,13 @@
 
 <br/>
 
-### 👋 Sobre mí
+### "Hi"
 
-Soy **Samuel Díaz**, instructor de **Python e Inteligencia Artificial** en **FUNDESTEAM** (Samsung Innovation Campus) y estudiante de **Economía (UCV)** y **Administración (UNESR)**[cite: 1, 2, 5]. Combino el análisis cuantitativo y la gestión estratégica con el desarrollo de software, estructuras de datos, *Machine Learning* y *Deep Learning* para resolver problemas reales con rigor técnico y claridad[cite: 1, 2].
+Soy **Samuel Díaz**, instructor de **Python e Inteligencia Artificial** en **FUNDESTEAM** (Samsung Innovation Campus) y estudiante de **Economía (UCV)** y **Administración (UNESR)**. Combino el análisis cuantitativo y la gestión estratégica con el desarrollo de software, estructuras de datos, *Machine Learning* y *Deep Learning* para resolver problemas reales con rigor técnico y claridad.
 
-* 🧠 **Docencia & IA:** Diseño y guío sesiones prácticas de Python, algoritmos, análisis de datos e IA para distintas cohortes del Samsung Innovation Campus, acompañando proyectos y hackathons[cite: 1, 2, 5].
-* 📐 **Enfoque Cuantitativo:** Aplico modelado matemático, estadística y pensamiento económico a proyectos y portafolios académicos en GitHub[cite: 1, 6].
-* 🤖 **Liderazgo & Disciplina:** He ejercido como Juez Principal en competencias de robótica (WRO Venezuela / Technoxian), trasladando la toma de decisiones bajo presión y la constancia deportiva a mi trabajo técnico[cite: 1, 2, 4].
+* 🧠 **Docencia & IA:** Diseño y guío sesiones prácticas de Python, algoritmos, análisis de datos e IA para distintas cohortes del Samsung Innovation Campus, acompañando proyectos y hackathons.
+* 📐 **Enfoque Cuantitativo:** Aplico modelado matemático, estadística y pensamiento económico a proyectos y portafolios académicos en GitHub.
+* 🤖 **Liderazgo & Disciplina:** He ejercido como Juez Principal en competencias de robótica (WRO Venezuela / Technoxian), trasladando la toma de decisiones bajo presión y la constancia deportiva a mi trabajo técnico.
 
 ---
 
@@ -74,13 +74,4 @@ Soy **Samuel Díaz**, instructor de **Python e Inteligencia Artificial** en **FU
   <a href="https://github.com/sadhub10/Proyectos-Pa09-y-Pa10-HACKATON">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadhub10&repo=Proyectos-Pa09-y-Pa10-HACKATON&theme=tokyonight&hide_border=true" alt="Hackathon SIC" />
   </a>
-  <a href="https://github.com/sadhub10/SIC-2025-Aulas-Pa09-y-Pa10">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadhub10&repo=SIC-2025-Aulas-Pa09-y-Pa10&theme=tokyonight&hide_border=true" alt="SIC 2025" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=95&section=footer" width="100%" alt="Pie de página"/>
-</div>
+  <a href="
