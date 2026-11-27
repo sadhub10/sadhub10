@@ -1,6 +1,6 @@
-<!-- Banner superior estilo LinkedIn adaptado a perfil técnico -->
+<!-- Banner superior con imagen en azul marino eléctrico oscuro -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,55:1e3a8a,100:0284c7&height=175&section=header&text=Disciplina%20estrat%C3%A9gica%20%7C%20Ejecuci%C3%B3n%20tecnol%C3%B3gica%20%7C%20Liderazgo%20en%20equipo&fontSize=20&fontColor=ffffff&desc=Python%20%26%20AI%20Instructor%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Modelado%20Cuantitativo%20(UCV%20%26%20UNESR)&descAlignY=66&descSize=13" width="100%" alt="Banner Samuel Díaz" />
+  <img src="assets/banner-github.png" width="100%" alt="Samuel Díaz - Banner" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 ### 👋 Sobre mí
 
-Soy **Samuel Díaz**, instructor de **Python e Inteligencia Artificial** en **FUNDESTEAM** (Samsung Innovation Campus)[cite: 1, 2, 5] y estudiante de **Economía (UCV)** y **Administración (UNESR)**[cite: 1]. Combino el análisis cuantitativo y la gestión estratégica con el desarrollo de software, estructuras de datos, *Machine Learning* y *Deep Learning* para resolver problemas reales con rigor técnico y claridad[cite: 1, 2].
+Soy **Samuel Díaz**, instructor de **Python e Inteligencia Artificial** en **FUNDESTEAM** (Samsung Innovation Campus) y estudiante de **Economía (UCV)** y **Administración (UNESR)**[cite: 1, 2, 5]. Combino el análisis cuantitativo y la gestión estratégica con el desarrollo de software, estructuras de datos, *Machine Learning* y *Deep Learning* para resolver problemas reales con rigor técnico y claridad[cite: 1, 2].
 
 * 🧠 **Docencia & IA:** Diseño y guío sesiones prácticas de Python, algoritmos, análisis de datos e IA para distintas cohortes del Samsung Innovation Campus, acompañando proyectos y hackathons[cite: 1, 2, 5].
 * 📐 **Enfoque Cuantitativo:** Aplico modelado matemático, estadística y pensamiento económico a proyectos y portafolios académicos en GitHub[cite: 1, 6].
@@ -40,4 +40,47 @@ Soy **Samuel Díaz**, instructor de **Python e Inteligencia Artificial** en **FU
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+</div>
+
+---
+
+### 📊 Estadísticas en GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sadhub10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" alt="Estadísticas de GitHub"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadhub10&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadhub10&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
+</div>
+
+---
+
+### 📂 Repositorios Destacados
+
+<div align="center">
+  <a href="https://github.com/sadhub10/SIC-2026-Aulas-Pa-Cy-Pa-D">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadhub10&repo=SIC-2026-Aulas-Pa-Cy-Pa-D&theme=tokyonight&hide_border=true" alt="SIC 2026" />
+  </a>
+  <a href="https://github.com/sadhub10/Matemática-IV-Portafolio.SD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadhub10&repo=Matemática-IV-Portafolio.SD&theme=tokyonight&hide_border=true" alt="Matemática IV Portafolio" />
+  </a>
+  <br/>
+  <a href="https://github.com/sadhub10/Proyectos-Pa09-y-Pa10-HACKATON">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadhub10&repo=Proyectos-Pa09-y-Pa10-HACKATON&theme=tokyonight&hide_border=true" alt="Hackathon SIC" />
+  </a>
+  <a href="https://github.com/sadhub10/SIC-2025-Aulas-Pa09-y-Pa10">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadhub10&repo=SIC-2025-Aulas-Pa09-y-Pa10&theme=tokyonight&hide_border=true" alt="SIC 2025" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=95&section=footer" width="100%" alt="Pie de página"/>
+</div>
