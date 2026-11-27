@@ -62,10 +62,12 @@ Soy **Samuel Díaz**, instructor de **Python e Inteligencia Artificial** en **FU
 
 ### 📂 Repositorios Destacados
 
-<div align="center">
-  <a href="https://github.com/sadhub10/SIC-2026-Aulas-Pa-Cy-Pa-D">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadhub10&repo=SIC-2026-Aulas-Pa-Cy-Pa-D&theme=tokyonight&hide_border=true" alt="SIC 2026" />
-  </a>
+| Repositorio | Enfoque Técnico | Tecnologías |
+| :--- | :--- | :--- |
+| **[SIC-2026-Aulas-Pa-Cy-Pa-D](https://github.com/sadhub10/SIC-2026-Aulas-Pa-Cy-Pa-D)** | Material práctico, ejercicios y guías de Python e IA (Cohorte 2026) | `Python` `Jupyter` `IA` |
+| **[Matemática-IV-Portafolio.SD](https://github.com/sadhub10/Matemática-IV-Portafolio.SD)** | Portafolio académico cuantitativo, Cadenas de Markov y modelado | `Python` `Jupyter` `Matemática` |
+| **[Proyectos-Pa09-y-Pa10-HACKATON](https://github.com/sadhub10/Proyectos-Pa09-y-Pa10-HACKATON)** | Soluciones aplicadas de Machine Learning desarrolladas en Hackathon | `Python` `Scikit-Learn` `Data` |
+| **[SIC-2025-Aulas-Pa09-y-Pa10](https://github.com/sadhub10/SIC-2025-Aulas-Pa09-y-Pa10)** | Currículo completo de programación, estructuras de datos e IA (2025) | `Python` `Jupyter` `Pandas` |
   <a href="https://github.com/sadhub10/Matemática-IV-Portafolio.SD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadhub10&repo=Matemática-IV-Portafolio.SD&theme=tokyonight&hide_border=true" alt="Matemática IV Portafolio" />
   </a>
