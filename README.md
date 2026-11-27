@@ -68,11 +68,5 @@ Soy **Samuel Díaz**, instructor de **Python e Inteligencia Artificial** en **FU
 | **[Matemática-IV-Portafolio.SD](https://github.com/sadhub10/Matemática-IV-Portafolio.SD)** | Portafolio académico cuantitativo, Cadenas de Markov y modelado | `Python` `Jupyter` `Matemática` |
 | **[Proyectos-Pa09-y-Pa10-HACKATON](https://github.com/sadhub10/Proyectos-Pa09-y-Pa10-HACKATON)** | Soluciones aplicadas de Machine Learning desarrolladas en Hackathon | `Python` `Scikit-Learn` `Data` |
 | **[SIC-2025-Aulas-Pa09-y-Pa10](https://github.com/sadhub10/SIC-2025-Aulas-Pa09-y-Pa10)** | Currículo completo de programación, estructuras de datos e IA (2025) | `Python` `Jupyter` `Pandas` |
-  <a href="https://github.com/sadhub10/Matemática-IV-Portafolio.SD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadhub10&repo=Matemática-IV-Portafolio.SD&theme=tokyonight&hide_border=true" alt="Matemática IV Portafolio" />
-  </a>
-  <br/>
-  <a href="https://github.com/sadhub10/Proyectos-Pa09-y-Pa10-HACKATON">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadhub10&repo=Proyectos-Pa09-y-Pa10-HACKATON&theme=tokyonight&hide_border=true" alt="Hackathon SIC" />
-  </a>
+  
   <a href="
