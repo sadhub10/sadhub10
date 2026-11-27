@@ -22,6 +22,7 @@ Soy **Samuel Díaz**, instructor de **Python e Inteligencia Artificial** en **FU
 * 📐 **Enfoque Cuantitativo:** Aplico modelado matemático, estadística y pensamiento económico a proyectos y portafolios académicos en GitHub.
 * 🤖 **Liderazgo & Disciplina:** He ejercido como Juez Principal en competencias de robótica (WRO Venezuela / Technoxian), trasladando la toma de decisiones bajo presión y la constancia deportiva a mi trabajo técnico.
 
+> *"La tecnología es el motor, pero la ética, la disciplina y la humildad son el volante."*
 ---
 
 ### 🛠️ Stack Tecnológico
